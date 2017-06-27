@@ -1,4 +1,4 @@
-micro-KALI
+                                                  micro-KALI
 
 This project is aimed at creating a minimal implementation of OS. the project only uses th GRUB as an of the shelf component. All the other components are coded from scratch by a team of 3 students over a period of 3 months.
 
